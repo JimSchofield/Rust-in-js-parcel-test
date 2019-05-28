@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/index.js"],"names":["console","dir"],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAAA;;AAEAA,OAAO,CAACC,GAAR,CAAY,yBAAZ","file":"src.a2b27638.map","sourceRoot":"..","sourcesContent":["import { do_something} from './test.rs';\n\nconsole.dir(do_something());\n\n"]}
